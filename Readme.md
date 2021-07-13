@@ -1,4 +1,4 @@
-# PRO-README_GEN
+# Pro-ReadME-Gen
 
 - [Professional README Generator](#professional-readme-generator)
 
