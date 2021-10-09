@@ -16,6 +16,8 @@
   
   - [License](#license)
 
+![Link to walkthrough video](https://watch.screencastify.com/v/jsvg6dG6CVg50TQwgNZY)
+
 ## Description
 The application interrogates the user a variety of questions to create a professional README file for projects.
 ## Installation
@@ -25,7 +27,6 @@ After everything is installed. Open the terminal and run node index.js then answ
 ## Demo
 ![README gif](https://media.giphy.com/media/HTvjMoiUbld8DBr4OS/giphy.gif)
 
-[Table of Contents Demo](https://media.giphy.com/media/HTvjMoiUbld8DBr4OS/giphy.gif)
 ## Repository
 [GitHub Repository](https://github.com/Jnm8787/Pro_ReadME_Gen)
 ## Questions
