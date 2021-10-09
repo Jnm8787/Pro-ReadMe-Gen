@@ -16,9 +16,11 @@
   
   - [License](#license)
 
-![Link to walkthrough video](https://watch.screencastify.com/v/jsvg6dG6CVg50TQwgNZY)
+
 
 ## Description
+[Walk through Vid](https://watch.screencastify.com/v/jsvg6dG6CVg50TQwgNZY)
+
 The application interrogates the user a variety of questions to create a professional README file for projects.
 ## Installation
 In this application you will need inquirer package, node.js and a command terminal to run the applications.
