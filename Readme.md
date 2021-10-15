@@ -19,7 +19,7 @@
 
 
 ## Description
-[Walk through Vid](https://watch.screencastify.com/v/jsvg6dG6CVg50TQwgNZY)
+[Walk through Vid](https://watch.screencastify.com/v/4g2kVx9glukWxvRzwYnP)
 
 The application interrogates the user a variety of questions to create a professional README file for projects.
 ## Installation
@@ -27,19 +27,22 @@ In this application you will need inquirer package, node.js and a command termin
 ## Usage
 After everything is installed. Open the terminal and run node index.js then answer the questions within the terminal.
 ## Demo
-![README gif](https://media.giphy.com/media/HTvjMoiUbld8DBr4OS/giphy.gif)
+![README gif](https://media.giphy.com/media/iUVoFWXpO1nCQ7M3Dy/giphy.gif)
+![README gif](https://media.giphy.com/media/6Vlmkht499Prs8qNzW/giphy.gif)
+
 
 ## Repository
 [GitHub Repository](https://github.com/Jnm8787/Pro_ReadME_Gen)
 ## Questions
+If theres any questions please reach me.
+### Contact me:
 You can contact at my Github : [Jnm8787](https://github.com/Jnm8787) <br/>
 or my email : J.molina22587@gmail.com
 
-![README gif](https://media.giphy.com/media/6Vlmkht499Prs8qNzW/giphy.gif)
 
 ## License
 
-[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-[MIT](https://www.mit.edu/~amini/LICENSE.md)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
